@@ -1,6 +1,10 @@
 # CrowdStrikeFix
 
-This repository contains a BAT script to temporarily resolve the CrowdStrike outage issue by deleting a specific file and rebooting the system.
+This repository contains a BAT script to temporarily resolve the CrowdStrike outage issue by deleting a specific file and rebooting the system. 
+
+**Managing Many Computers:**
+  - If you are managing many computers, you may find it more efficient to use a USB drive to transfer the script file to each machine.
+  - This practice can save time and ensure consistency when applying the fix across multiple systems.
 
 ## Instructions
 
